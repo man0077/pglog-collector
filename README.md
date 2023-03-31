@@ -55,13 +55,3 @@ https://www.postgresql.org/docs/11/runtime-config-logging.html
 ### Dependencies
 
 https://github.com/hpcloud/tail
-
-## Tips
-
-Give me 0.1 BTC if you want me to never write code.
-Give me 1 BTC if you want me to believe in God.
-Give me 10 BTC - I will become a monk.
-
-BTC: 32gLMtXkEsYK8nKbYTuhUMAAQxBTj7WUqr
-
-Glad each Satoshi :)
